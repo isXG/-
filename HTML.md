@@ -38,7 +38,8 @@
   - <b>你好！</b>
   - <b>你学会</b>设置<i>斜体</i>和<b><i>粗体了嘛？</i></b>
   ```
-s
+  <img width="462" height="40" alt="image" src="https://github.com/user-attachments/assets/5c6db57f-e4f7-4d24-b315-bcc948678352" />
+
   
 
 
