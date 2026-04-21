@@ -23,8 +23,10 @@
 - ②可以只在文本开头处加；也可以在开头末尾都加
 - <img width="1487" height="103" alt="image" src="https://github.com/user-attachments/assets/22447523-a0c0-4c8a-a41d-ffe5a26c5f67" />
 ## 二.如何编辑文字？
-#### 🔴使用' * '修改粗体和斜体
- * 你好 *
+#### 🔴使用' * '修改粗体和斜体,不要有空格！
+```
+*你好！*
+```
 
 
  
