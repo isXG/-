@@ -28,7 +28,7 @@
 - <img width="1487" height="103" alt="image" src="https://github.com/user-attachments/assets/22447523-a0c0-4c8a-a41d-ffe5a26c5f67" />
 ## 二.如何编辑文字？
 
-#### 🔴设置斜体，粗体，斜粗体
+#### 设置斜体，粗体，斜粗体
 
 - ①用'<b>'和'</b>'设置粗体
 - ②用'<i>'和'</i>'设置斜体
