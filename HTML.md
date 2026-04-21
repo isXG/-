@@ -1,4 +1,4 @@
-<div align="center" style="font-size:24px; font-weight:bold;">
+<div align="center" style="font-size:50px; font-weight:bold;">
 常用的HTML与MarkDown记笔记语法
 </div>
 <span style="font-size: 12px;">小号文字</span>
