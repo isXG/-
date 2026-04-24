@@ -38,5 +38,12 @@ print(np.dot(arr1,arr2))
 <img width="162" height="231" alt="image" src="https://github.com/user-attachments/assets/80b701eb-04e8-41ea-826a-320d9db1432a" />
 
  -  相当于（1，5）×（5，3）=（1，3），且结果为向量
+ -  
+ -  <img width="1449" height="225" alt="image" src="https://github.com/user-attachments/assets/a0d9fed3-a200-4360-ad6c-3ad0a5eec66c" />
+ 
+<img width="1422" height="201" alt="image" src="https://github.com/user-attachments/assets/5177e330-86d1-4b1b-a1cd-887c64386384" />
+
+#### 和线代里一模一样不再赘述
+
 
 
