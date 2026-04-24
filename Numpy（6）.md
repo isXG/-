@@ -14,6 +14,7 @@ print(arr//6)取整
 print(arr%6)
 ```
 <img width="1423" height="214" alt="image" src="https://github.com/user-attachments/assets/b0f9b5d7-f48c-432b-9615-fc86d8856ad0" />
+
 ### 例程
 
 ```
@@ -21,8 +22,6 @@ arr1 = np.arange(1,9,-1).reshape(2,4)
 arr2 = -arr1
 print(arr1)
 print(arr2)
-```
-```
 print(arr1 + arr2)
 print(arr1 - arr2)
 print(arr1*arr2)
