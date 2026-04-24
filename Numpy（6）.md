@@ -52,6 +52,10 @@ print(arr1 *arr2) //广播
 ### 列矩阵广播同理，不再赘述。
 
 #### ❗❗❗要求列矩阵的行数必须和矩阵的行数相同。
+
+<img width="1479" height="205" alt="image" src="https://github.com/user-attachments/assets/1806d537-58a1-4501-8a8a-cc37d1c6b867" />
+
+- 不再赘述。
   
 
 
