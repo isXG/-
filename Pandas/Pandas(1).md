@@ -101,4 +101,5 @@ print(df)
 
 ## 一.（4）二维对象的属性----values index columns
 
-![Uploading image.png…]()
+<img width="1451" height="1077" alt="image" src="https://github.com/user-attachments/assets/d8880324-a367-47fe-a9cb-845d61d4fff6" />
+
