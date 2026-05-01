@@ -33,4 +33,22 @@
 
 ### 没有打印三号位置的元素，其余都一直就不演示了
 
-## 二.(2)访问切片---显式和隐式
+## 二.(2）二维对象的索引
+
+### ①访问元素
+
+<img width="1473" height="197" alt="image" src="https://github.com/user-attachments/assets/9bfaf75f-6481-4c97-97c2-359f9350e25b" />
+
+<img width="999" height="372" alt="image" src="https://github.com/user-attachments/assets/1608856e-a2cf-4fb4-89b6-e82dbad468d7" />
+
+<img width="1314" height="387" alt="image" src="https://github.com/user-attachments/assets/ae464dd0-029e-4fc9-a66e-20d37d4465a8" />
+
+### 二维中不加索引将无法访问
+
+<img width="1386" height="207" alt="image" src="https://github.com/user-attachments/assets/f05fd3e7-96a1-4431-b252-ee0797b45c36" />
+
+### ①访问切片
+
+<img width="939" height="948" alt="image" src="https://github.com/user-attachments/assets/e2c1330e-9474-445f-abf6-2b13a16c5c18" />
+
+### 提取出的是一个series对象
